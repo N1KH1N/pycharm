@@ -1,0 +1,4 @@
+lekshmi,22,kakkanad
+nikhin,21,palakkad
+ardhra,20,kochi
+dinoop,21,bangalore

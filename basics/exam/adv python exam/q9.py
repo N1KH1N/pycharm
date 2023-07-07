@@ -1,0 +1,8 @@
+import re
+rule='[A-Z]\w{3,8}[A-Z]'
+s=input("enter string:")
+match=re.fullmatch(rule,s)
+if match is not None:
+    print("valid")
+else:
+    print("Invalid")
